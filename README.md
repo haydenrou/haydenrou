@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">hello 👋</h1>
 
 <table width="960px">
 <tr>
