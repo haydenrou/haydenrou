@@ -1,13 +1,13 @@
 ### Hi there 👋
-### <div align="center">I'm Hayden, a full-time Ruby / TypeScript / React developer with a passion in tech 👨‍💻</div>
+#### I'm Hayden, a full-time Ruby, TypeScript & React developer with a passion in building fun and useful tools or applications 👨‍💻
 
 <!-- * 🔭 I’m currently working on -->
 * 🌱 I’m currently learning Go
-* 💬 ask me about vim
 * 👯 I’m looking to collaborate on anything fun :-)
+* 💬 Ask me about Vim
 * 📫 How to reach me: hayden@rouille.dev
 
-### 📕 check out some of my recent blog posts
+#### 📕 check out some of my recent blog posts
 
 * <a href='https://dev.to/hayden/my-2024-pde-neovim-14e5' target='_blank'>My 2024 PDE: NeoVim</a>
 * <a href='https://dev.to/hayden/optimizing-your-workflow-with-fzf-ripgrep-2eai' target='_blank'>optimizing your workflow with fzf and ripgrep</a>
