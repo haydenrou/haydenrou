@@ -20,7 +20,7 @@
     role: "Senior Software Developer",
     organisation: "Power Home Remodeling"
   },
-  technologies: ["ruby", "javascript", "typescript", "reactjs", "golang"],
+  technologies: ["ruby", "typescript", "react", "golang", "templ", "htmx"],
   likes: ["weightlifting", "coastal rowing", "traveling", "building things", "meeting cool people", "coffee"],
   editor: "neovim btw"
 }
